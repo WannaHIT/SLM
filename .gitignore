@@ -1,2 +1,4 @@
 *.csv
 naive_Bayes/Mnist/
+*.png
+*.md
